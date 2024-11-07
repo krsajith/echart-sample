@@ -1,0 +1,27 @@
+sajith@sajith-Z270M-D3H:~/learning/echart-sample$ ng build
+Initial chunk files   | Names         |  Raw size | Estimated transfer size
+main-5RQWMY3P.js      | main          | 179.84 kB |                48.08 kB
+polyfills-FFHMD2TL.js | polyfills     |  34.52 kB |                11.28 kB
+styles-5INURTSO.css   | styles        |   0 bytes |                 0 bytes
+
+                      | Initial total | 214.36 kB |                59.37 kB
+
+Application bundle generation complete. [0.810 seconds]
+
+Output location: /home/sajith/learning/echart-sample/dist/echart-sample
+
+sajith@sajith-Z270M-D3H:~/learning/echart-sample$ ng build
+Initial chunk files   | Names         | Raw size | Estimated transfer size
+main-FPJ3HKJY.js      | main          |  1.22 MB |               327.22 kB
+polyfills-FFHMD2TL.js | polyfills     | 34.52 kB |                11.28 kB
+styles-5INURTSO.css   | styles        |  0 bytes |                 0 bytes
+
+                      | Initial total |  1.25 MB |               338.50 kB
+
+Application bundle generation failed. [2.067 seconds]
+
+▲ [WARNING] bundle initial exceeded maximum budget. Budget 512.00 kB was not met by 741.93 kB with a total of 1.25 MB.
+
+
+✘ [ERROR] bundle initial exceeded maximum budget. Budget 1.05 MB was not met by 205.35 kB with a total of 1.25 MB.
+
